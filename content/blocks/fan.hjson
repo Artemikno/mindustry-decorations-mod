@@ -6,7 +6,7 @@ health: 480 // (small copper wall health / it's build cost) * my wall build cost
 researchCostMultiplier: 0.5
 category: defense
 requirements: [
-  copper/9 // OMG MD REFERENCE
+  copper/9
 ]
 research: copper-wall
 drawer: {
